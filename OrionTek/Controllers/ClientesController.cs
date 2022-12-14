@@ -91,9 +91,6 @@ namespace OrionTek.Controllers
 
         }
 
-        //private bool ClienteExists(int id)
-        //{
-        //    return _context.Cliente.Any(e => e.clienteId == id);
-        //}
+      
     }
 }
